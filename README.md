@@ -5,7 +5,6 @@
 - **Name:** Rushikesh
 - **Student ID:** 23MH1A4930
 - **GitHub Repository:** https://github.com/Rushikesh-5706/PKI-Based-2FA-Microservice-with-Docker.git
-- **Commit Hash:** 41846ed5d812239695d7f6c3482701046162153c
 - **Docker Image URL:** https://hub.docker.com/r/rushi5706/pki-based-2fa-microservice
 ## Student Public Key (RSA 4096-bit)
 -----BEGIN PUBLIC KEY-----
@@ -79,9 +78,6 @@ curl http://localhost:8080/generate-2fa
 
 ## Cryptographic Proof of Work
 
-Commit Hash: 41846ed5d812239695d7f6c3482701046162153c
-
-Encrypted Signature: TdS0l7sIPm4QuVSvAGzl7Ff2qPLh4wq8uYUItHSw/53s/HBQNodsb17vntimD2EkfNOcPNLAsJVR2QvcKXXu8Oz+xcrgxOCgiQoqY7WqAdXfEfuW0C5+flePnozluexJGPvyRwEkjOtBKI/ZDRIW5iV4w4dZxKZURnxS9iMwD5mJhGfwwGOGq5cbSQ8ZOaAg8JTY8Nyng4bMFRfVVA4E6R0lhUwX5eWMiY/gA/V/ghFXBvKn293s6PXhws0BuUEAxiyNXcVhNnUcK8EUd2hEw/n70xE9DgBAkCNbYqWB7PXx+LqGQcMX4yztin2x3X0eh/MkLjD0Fuo11ngjZqefX48QcCvFG/yDSRUU3LLQua2jj0BqO3QMafy9IKMgwZWWNeMrebJer0nbSvWPE3hIT1FYrUuahi4jZbGH1c0PWSpNd3Bq2LtNn+Xh4rl3Ij1bi9lNd2Y09UmITr/V1Rwdqe5p4jfI91N27xFiza2GePzpuXZxgumKUeOiAm3ahXXAau1BxsFffC50ynvCw7Q/VzI6SxqlxkzngtXzpel/xx+RjNaQqLuXTzD8bMnommlA4gYHriKZRnJcWsY65ml/DydEc46IvpbRVszo7AKtPKHAEcUM3Bi9F26CSLeDDJQy2iSasiLu47mrgBU2WeOOqlAWccp7Wusk3BQbTn//n1kD2uv8BDRuaYeUIvL/h9nq+89mbD7t9nBj63cFSwBlLQTYLE8xoNQ+9/cQWEi2vOZCEW8oOpQMW4IwGocG//whKLyrPvZkmCSSF3XzO42r7UvfL1asdOje60aDWhNZzf6kLnKjvkg1740VkGF2Jygo2VdUzo2IlOiuyfRTPOaz1ICTwHenmDoicFkRygcetZgl7vq+RhyN4Lu2uJ25/6ichpoZdu1yEdlgU3k1uff+QNywQgiKJmNP9GaP87MMS92LPYMaID/3y6VEDIt9bAllTWYrsjlu6l3ehujVyVH0WPz01pdpb4F1auxKJmBN973Y11PktpUn7K7aApREQBcHfWJBNdQYGrbVDXZlN0HBAMVEgy7hI33+xCgS8rApV+TyVre+WbJ1PSZko9beiRh8hC21W9gyhZSI+iGvFuSmClk8ohJKz8Q5Lfxnk/0prCgiqvPbAmgFTJ9Y4XnqKKcruP2ebQmv8J3O9stkOo+5V6q5kGgXPumv4REABpzIDq+Wg3sq+g/q3LagPY8gbufJARnP6Ub5ySapjkLMPEsuxDCtGyL5KZdKxUlBJosOG7KD2iBWGL4rCSqdDa6h3sfXcDJoAAE4dGll+vP7AjdMvo/iVHx6qSwyYZlTB4U3JUHlr0OoqG3CQFjHexYBW1OFuznjGvzXEv7+4ZHPYXdnPA==
-
+Note on Cryptographic Proof: The Commit Hash and Encrypted Signature for this specific submission are provided directly in the evaluation portal to ensure absolute synchronization with the final repository state.
 
 ---
