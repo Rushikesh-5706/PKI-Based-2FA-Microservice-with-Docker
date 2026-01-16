@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+encrypted_seed.txt
+/data/
+/cron/
