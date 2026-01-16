@@ -6,8 +6,7 @@
 - **Student ID:** 23MH1A4930
 - **GitHub Repository:** https://github.com/Rushikesh-5706/PKI-Based-2FA-Microservice-with-Docker.git
 - **Commit Hash:** 41846ed5d812239695d7f6c3482701046162153c
-- **Docker Image URL:** docker.io/rushi5706/pki-based-2fa-microservice:latest
-
+- **Docker Image URL:** https://hub.docker.com/r/rushi5706/pki-based-2fa-microservice
 ## Student Public Key (RSA 4096-bit)
 -----BEGIN PUBLIC KEY-----
 MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA0XC1F77kB7Ke/VhzuXON
